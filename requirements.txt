@@ -10,3 +10,6 @@ groq
 markdown_pdf
 duckduckgo-search
 fpdf
+unstructured
+pyowm
+tools
