@@ -1,3 +1,7 @@
+##© 2024 Tushar Aggarwal. All rights reserved.(https://tushar-aggarwal.com)
+##TripVisor [Towards-GenAI] (https://github.com/Towards-GenAI)
+##################################################################################################
+#Importing dependencies
 from langchain.tools import tool
 
 

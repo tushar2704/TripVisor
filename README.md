@@ -1,1 +1,1 @@
-# TripVisor
+# TripVisor - Trip Itinerary Planner
