@@ -145,9 +145,7 @@ if __name__ == "__main__":
         footer()
 
         
-        
-
-        
+         
 
 
 if submitted:
